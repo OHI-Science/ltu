@@ -1,4 +1,6 @@
 "rgn_id","sciname","category"
+1," Carcharhinus perezi",6
+1," Monachus monachus ",1
 1,"Alopias vulpinus",7
 1,"Balaena mysticetus",5
 1,"Balaenoptera acutorostrata",5
@@ -11,7 +13,6 @@
 1,"Caperea marginata",2
 1,"Carcharhinus amblyrhynchos",6
 1,"Carcharhinus melanopterus",6
-1," Carcharhinus perezi",6
 1,"Carcharodon carcharias",7
 1,"Caretta caretta",3
 1,"Cephalorhynchus hectori",3
@@ -55,7 +56,6 @@
 1,"Mesoplodon hectori",2
 1,"Mesoplodon layardii",2
 1,"Mesoplodon mirus",2
-1," Monachus monachus ",1
 1,"Natator depressus",2
 1,"Orcaella brevirostris",7
 1,"Orcaella heinsohni",6
